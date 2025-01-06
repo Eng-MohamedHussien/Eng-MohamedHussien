@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sourcetrail](https://github.com/OpenSourceSourceTrail/Sourcetrail)
 
-- 🌱 I’m currently learning **SOMEIP, QNX, QT, Adaptive Autosar**
+- 🌱 I’m currently learning **QT**
 
 - 💬 Ask me about **c++**
 
